@@ -1,0 +1,69 @@
+﻿
+   =========================================================
+     M E M E   S N I P E R   A G E N T
+     AI-Powered Solana Memecoin Hunter
+   =========================================================
+
+python : 2026-06-08 12:56:04,632 [INFO] Cycle 1/5
+At line:1 char:1
++ python -m src.agent 2>&1 | Out-File "C:\meme-sniper-agent\last_run.tx ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026-06-08 12:56:04,632 [INFO] Cycle 1/5:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+2026-06-08 12:56:08,411 [INFO]   TurboSol78 -> 64 (WATCH)
+2026-06-08 12:56:10,476 [INFO]   TurboSol28 -> 63 (WATCH)
+2026-06-08 12:56:13,008 [INFO]   PopcatSol32 -> 83 (BUY)
+2026-06-08 12:56:15,481 [INFO]   DogeSol2 -> 82 (BUY)
+2026-06-08 12:56:17,465 [INFO]   PepeSol40 -> 74 (BUY)
+2026-06-08 12:56:19,466 [INFO] Cycle 2/5
+2026-06-08 12:56:21,665 [INFO]   Slerf245 -> 75 (BUY)
+2026-06-08 12:56:23,776 [INFO]   Popcat21 -> 63 (WATCH)
+2026-06-08 12:56:25,853 [INFO]   Turbo21 -> 83 (BUY)
+2026-06-08 12:56:30,280 [INFO]   Popcat264 -> 51 (WATCH)
+2026-06-08 12:56:33,008 [INFO]   Slerf283 -> 82 (BUY)
+2026-06-08 12:56:35,010 [INFO] Cycle 3/5
+2026-06-08 12:56:37,719 [INFO]   SlerfX29 -> 90 (BUY)
+2026-06-08 12:56:39,764 [INFO]   WifX92 -> 68 (WATCH)
+2026-06-08 12:56:41,771 [INFO]   TurboX89 -> 65 (WATCH)
+2026-06-08 12:56:43,976 [INFO]   TurboX79 -> 17 (SKIP)
+2026-06-08 12:56:47,451 [INFO]   WifX56 -> 63 (WATCH)
+2026-06-08 12:56:49,453 [INFO] Cycle 4/5
+2026-06-08 12:56:51,404 [INFO]   Turbo62 -> 96 (BUY)
+2026-06-08 12:56:53,880 [INFO]   Turbo39 -> 79 (BUY)
+2026-06-08 12:56:56,747 [INFO]   Giga47 -> 60 (WATCH)
+2026-06-08 12:56:59,423 [INFO]   Myro48 -> 81 (BUY)
+2026-06-08 12:57:02,584 [INFO]   Slerf20 -> 57 (WATCH)
+2026-06-08 12:57:04,586 [INFO] Cycle 5/5
+2026-06-08 12:57:07,417 [INFO]   TurboX52 -> 68 (WATCH)
+2026-06-08 12:57:09,349 [INFO]   DogeX51 -> 91 (BUY)
+2026-06-08 12:57:12,712 [INFO]   ShibX38 -> 70 (BUY)
+2026-06-08 12:57:15,431 [INFO]   MyroX57 -> 82 (BUY)
+2026-06-08 12:57:17,422 [INFO]   BonkX25 -> 48 (WATCH)
+                                 Live Verdicts                                 
++-----------------------------------------------------------------------------+
+| Symbol   | Score | Verdict | Liquidity | Reasoning                          |
+|----------+-------+---------+-----------+------------------------------------|
+| Turbo62  |    96 |   BUY   |   $30,432 | $30,432 liq, 476 holders, 31m old. |
+|          |       |         |           | Strong                             |
+| Turbo39  |    79 |   BUY   |   $27,453 | $27,453 liq, 209 holders, 113m     |
+|          |       |         |           | old. Strong                        |
+| Giga47   |    60 |  WATCH  |   $27,142 | $27,142 liq, 42 holders, 140m old. |
+|          |       |         |           | Mixed                              |
+| Myro48   |    81 |   BUY   |   $17,176 | $17,176 liq, 395 holders, 26m old. |
+|          |       |         |           | Strong                             |
+| Slerf20  |    57 |  WATCH  |   $16,698 | $16,698 liq, 196 holders, 150m     |
+|          |       |         |           | old. Mixed                         |
+| TurboX52 |    68 |  WATCH  |   $37,545 | $37,545 liq, 137 holders, 154m     |
+|          |       |         |           | old. Mixed                         |
+| DogeX51  |    91 |   BUY   |   $28,214 | $28,214 liq, 240 holders, 24m old. |
+|          |       |         |           | Strong                             |
+| ShibX38  |    70 |   BUY   |   $44,778 | $44,778 liq, 59 holders, 52m old.  |
+|          |       |         |           | Strong                             |
+| MyroX57  |    82 |   BUY   |   $36,817 | $36,817 liq, 468 holders, 173m     |
+|          |       |         |           | old. Strong                        |
+| BonkX25  |    48 |  WATCH  |   $16,069 | $16,069 liq, 162 holders, 211m     |
+|          |       |         |           | old. Mixed                         |
++-----------------------------------------------------------------------------++-----------------------------------------------------------------------------+
+| Done. 25 verdicts.                                                          |
++-----------------------------------------------------------------------------+
