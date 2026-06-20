@@ -24,6 +24,8 @@ The agent answers one question: *Is this new memecoin worth buying, or is it a s
 
 [View Dashboard Demo (PDF)](MemeSniper%20Agent.pdf)
 
+[View Live Dashboard Screenshot (PDF)](dashboard.pdf)
+
 The dashboard shows:
 - Live token scoring (BUY in green, WATCH in yellow, SKIP in red)
 - Score distribution histogram
@@ -48,7 +50,7 @@ The dashboard shows:
 \`\`\`
 +-------------------------+
 |  SolanaWatcher          |  - Detects new token launches
-|  (mock data for demo)   |  - Returns: name, symbol, liquidity, holders, age
+|  (Helius RPC - Live)    |  - Returns: name, symbol, liquidity, holders, age
 +----------+--------------+
            |
            v
@@ -195,7 +197,7 @@ The LLM (Qwen) receives the same data plus context about memecoin trading patter
 
 ## What's Next
 
-- [ ] Real-time Solana RPC integration (replace mock data)
+- [x] Real-time Solana RPC integration (Helius RPC - DONE)
 - [ ] Dune Analytics queries for on-chain signals
 - [ ] Backtesting engine on historical token data
 - [ ] Telegram alerts for high-score BUY signals
