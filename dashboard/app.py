@@ -5,6 +5,8 @@ import plotly.express as px
 import subprocess
 import json
 from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 st.set_page_config(page_title="MemeSniper Agent", page_icon=":dart:", layout="wide")
 
