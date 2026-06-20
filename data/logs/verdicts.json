@@ -1,0 +1,110 @@
+[
+  {
+    "mint": "MOCK275901",
+    "symbol": "PepeAI45",
+    "name": "Mock Token 1-0",
+    "score": 93,
+    "verdict": "BUY",
+    "reasoning": "$30,682 liq, 273 holders, 35m old. Strong",
+    "liquidity_usd": 30681.962327125442,
+    "holder_count": 273,
+    "age_minutes": 35,
+    "timestamp": "2026-06-17T16:18:09.013626"
+  },
+  {
+    "mint": "MOCK900263",
+    "symbol": "ShibAI38",
+    "name": "Mock Token 1-1",
+    "score": 80,
+    "verdict": "BUY",
+    "reasoning": "$39,373 liq, 328 holders, 195m old. Strong",
+    "liquidity_usd": 39372.53559806688,
+    "holder_count": 328,
+    "age_minutes": 195,
+    "timestamp": "2026-06-17T16:18:11.122771"
+  },
+  {
+    "mint": "MOCK967867",
+    "symbol": "PepeAI70",
+    "name": "Mock Token 1-2",
+    "score": 80,
+    "verdict": "BUY",
+    "reasoning": "$49,905 liq, 350 holders, 228m old. Strong",
+    "liquidity_usd": 49905.10299886469,
+    "holder_count": 350,
+    "age_minutes": 228,
+    "timestamp": "2026-06-17T16:18:14.296566"
+  },
+  {
+    "mint": "MOCK924170",
+    "symbol": "SlerfSol88",
+    "name": "Mock Token 2-0",
+    "score": 45,
+    "verdict": "WATCH",
+    "reasoning": "$17,357 liq, 60 holders, 151m old. Mixed",
+    "liquidity_usd": 17356.850844456032,
+    "holder_count": 60,
+    "age_minutes": 151,
+    "timestamp": "2026-06-17T16:18:16.404151"
+  },
+  {
+    "mint": "MOCK231415",
+    "symbol": "PopcatSol44",
+    "name": "Mock Token 2-1",
+    "score": 95,
+    "verdict": "BUY",
+    "reasoning": "$40,725 liq, 415 holders, 48m old. Strong",
+    "liquidity_usd": 40724.85978494917,
+    "holder_count": 415,
+    "age_minutes": 48,
+    "timestamp": "2026-06-17T16:18:18.477766"
+  },
+  {
+    "mint": "MOCK727647",
+    "symbol": "DogeSol51",
+    "name": "Mock Token 2-2",
+    "score": 68,
+    "verdict": "WATCH",
+    "reasoning": "$49,006 liq, 56 holders, 70m old. Mixed",
+    "liquidity_usd": 49006.20113620088,
+    "holder_count": 56,
+    "age_minutes": 70,
+    "timestamp": "2026-06-17T16:18:20.494066"
+  },
+  {
+    "mint": "MOCK426534",
+    "symbol": "WifCoin55",
+    "name": "Mock Token 3-0",
+    "score": 64,
+    "verdict": "WATCH",
+    "reasoning": "$49,567 liq, 34 holders, 88m old. Mixed",
+    "liquidity_usd": 49566.552519852914,
+    "holder_count": 34,
+    "age_minutes": 88,
+    "timestamp": "2026-06-17T16:18:22.597772"
+  },
+  {
+    "mint": "MOCK962387",
+    "symbol": "PopcatCoin36",
+    "name": "Mock Token 3-1",
+    "score": 81,
+    "verdict": "BUY",
+    "reasoning": "$38,520 liq, 399 holders, 186m old. Strong",
+    "liquidity_usd": 38520.42749388246,
+    "holder_count": 399,
+    "age_minutes": 186,
+    "timestamp": "2026-06-17T16:18:25.827341"
+  },
+  {
+    "mint": "MOCK726629",
+    "symbol": "SlerfCoin63",
+    "name": "Mock Token 3-2",
+    "score": 57,
+    "verdict": "WATCH",
+    "reasoning": "$19,779 liq, 181 holders, 231m old. Mixed",
+    "liquidity_usd": 19778.51325289293,
+    "holder_count": 181,
+    "age_minutes": 231,
+    "timestamp": "2026-06-17T16:18:28.876557"
+  }
+]
